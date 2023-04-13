@@ -1,6 +1,7 @@
-# Renedered HTML file can be found here:
+## Renedered HTML file can be found here:
 https://vinnetou.github.io/coursera_assignment_week_4_practical_machine_learning/week_4_submission.html
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # coursera_assignment_week_4_practical_machine_learning
 
